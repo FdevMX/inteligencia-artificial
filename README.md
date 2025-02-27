@@ -66,7 +66,7 @@ Para ejecutar cualquiera de los simuladores:
 python agente_reactivo.py
 
 # Para ejecutar el simulador de aspiradoras autónomas
-python agente_simple.py
+python agente_autonomo.py
 ```
 
 ---

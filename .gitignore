@@ -398,3 +398,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# vemv
+*.venv
+.venv/
+
+*estadisticas_aspiradora.txt
